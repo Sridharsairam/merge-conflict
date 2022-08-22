@@ -1,3 +1,2 @@
-# merge-conflict
-this is first developer
+this is first developer1
 i am from vizag
